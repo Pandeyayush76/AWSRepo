@@ -32,8 +32,10 @@ public class ContactCreate {
 	{
 		System.out.println(phoneList.get(i).getText()+" "+priceList.get(i).getText());
 		//sopln;
+		//new
 	}
 		}
+	//new items
 
 	}
 
