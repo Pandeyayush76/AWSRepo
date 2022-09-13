@@ -31,6 +31,7 @@ public class ContactCreate {
 	for(int i=0;i<=phoneList.size();i++)
 	{
 		System.out.println(phoneList.get(i).getText()+" "+priceList.get(i).getText());
+		//sopln;
 	}
 		}
 
